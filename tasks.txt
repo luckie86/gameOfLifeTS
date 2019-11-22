@@ -1,0 +1,5 @@
+Naredi universal interface in ga extendaj
+dodaj public privat abstract
+
+return tipi za funkcije + inputi tipizirani.
+zapakiraj vse type v object in ladje v object
